@@ -1,0 +1,143 @@
+html {
+    background-color: beige;
+}
+body {
+    margin: 0 0 80px 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+nav {
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    display: flex;
+    box-shadow: 0px 5px 0px rgb(88, 88, 88);
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+#Title {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    width: 20%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+
+}
+li {
+    height: 80%;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+    
+    background:
+    linear-gradient(
+      to right,
+        black,
+        black
+    ),
+    linear-gradient(
+      to right,
+      white,
+      white
+    );
+  background-size: 100% 3px, 0 3px;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
+}
+li:hover {
+    background-size: 0 3px, 100% 3px;
+}
+#thisPage {
+    background-size: 0 3px, 100% 3px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 15pt;
+}
+#Base {
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+#News {
+    width: 100%;
+}
+
+#News h2 {
+    text-align: center;
+}
+
+#Container {
+    margin: 0 auto;
+    width: 80%;
+    height: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+}
+
+.NewsTab {
+    border-radius: 20px;
+    width: 300px;
+    height: 400px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.NewsTop {
+    border-radius: 20px 20px 0 0;
+    width: 100%;
+    height: 50%;
+    background-color: rgb(73, 73, 73);
+    text-align: center;
+    color: white;
+}
+.NewsBottom {
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+    width: 100%;
+    height: 50%;
+}
+
+.BTN {
+    margin: 0 auto;
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
