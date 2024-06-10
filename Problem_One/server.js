@@ -12,7 +12,7 @@ const newsapi = new NewsAPI('1e0a7da8b5ed4de99489bfdd74115739');
 class MyEmitter extends EventEmitter {}
 const myEmitter = new MyEmitter();
 
-// Initialize the host name and port variables
+// Initialize the host name and port variabls
 const hostname = 'localhost';
 const port = 3000;
 
