@@ -1,0 +1,29 @@
+QAP 2 Fullstack Extra Questions
+
+1. How many hours did it take to complete this assignment?
+
+	This assignment took me roughly 3.5 hours.
+
+2. What online resources did I use?
+
+	Here is a list of some of the resources I used:
+
+	- W3School:
+		I used this website to help with some of the core modules. I especially used this for help with the emitter module as it was causing me some issues.
+
+	- Class Lectures
+		I used some of previous class recordings to help with the core modules.
+	-ChatGPT 
+		I used chatGPT to help with the news API. Importing this api was very challenging to me. 
+	-NewsAPI website
+		I used the news API website to help set up and learn more about the API
+
+3. Did I need to ask any of my friends to help solve my problems?
+	No, I did not ask for any help from friends.
+
+4. Did I need to ask my instructor for any help?
+	I did not ask any of my instructors for help.
+
+5. Rate the difficulty of this assignment:
+	I would rate this assignment a 4/10 difficulty. This assignment was not too challenging for me but there was definitely some sections that cause me greif. One of the biggest issues for me was the optional NewsAPI section. Thought I did find it hard, I had fun learning how to do it as I know that many website use similar features. I also had some issues with the emmitter task but figured it out in the end. I feel very confident that I could do a similar project.
+
